@@ -1,4 +1,4 @@
-# 🎮 Projet C# – Jeu de cartes (Analyse & Programmation)
+# Projet C# – Jeu de cartes (Analyse & Programmation)
 
 Ce projet a été réalisé dans le cadre du cours **INF1035-00 – Concepts avancés des objets**.  
 
