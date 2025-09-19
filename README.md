@@ -2,7 +2,7 @@
 
 Ce projet a été réalisé dans le cadre du cours **INF1035-00 – Concepts avancés des objets**.  
 
-Il a été pour moi une vraie opportunité de me mettre dans la peau d’une **analyste junior** : comprendre un besoin métier simple (les règles d’un jeu de cartes), le traduire en règles claires, modéliser des entités et interactions, puis valider tout cela avec un prototype en C#.
+Il a été pour moi une vraie opportunité de comprendre un besoin métier simple (les règles d’un jeu de cartes), le traduire en règles claires, modéliser des entités et interactions, puis valider tout cela avec un prototype en C#.
 
 ## Ma démarche 
 
