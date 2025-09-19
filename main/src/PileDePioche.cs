@@ -1,4 +1,4 @@
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 
 // Classe représentant une pile de pioche de cartes, implémentant l'interface IPileDeCartes
 class PileDePioche : IPileDeCartes
