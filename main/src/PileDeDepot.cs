@@ -1,4 +1,4 @@
-﻿namespace Devoir_1_INF1035;
+﻿namespace Cardgame;
 
 //Création d'une classe représentant une pile de dépôt de cartes
 public class PileDeDepot : IPileDeCartes
