@@ -1,4 +1,4 @@
-﻿namespace Devoir_1_INF1035;
+﻿namespace Cardgame;
 
 // Classe représentant la table de jeu, avec une pioche, un dépôt et une liste de joueurs
 class TableDeJeu
