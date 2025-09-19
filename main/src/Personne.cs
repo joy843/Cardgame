@@ -1,4 +1,4 @@
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 
 // Classe représentant une personne avec un nom et un prénom
 public class Personne
