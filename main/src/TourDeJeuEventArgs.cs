@@ -1,6 +1,6 @@
 using System;
 
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 // class qui contient les info supplementaire de l'evenement
 public class TourDeJeuEventArgs : EventArgs
 {
