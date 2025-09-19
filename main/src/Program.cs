@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Devoir_1_INF1035 {
+namespace Cardgame {
     class Program
 {
     static void Main(string[] args)
