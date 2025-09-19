@@ -1,4 +1,4 @@
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 
 // la class joueurs derive de Personnes
 public class Joueur : Personne
