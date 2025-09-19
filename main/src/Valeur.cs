@@ -1,4 +1,4 @@
-﻿namespace Devoir_1_INF1035;
+﻿namespace Cardgame;
 
 //Création d'une énumération représentant les différentes valeurs d'une carte de jeu
 public enum Valeur
