@@ -1,4 +1,4 @@
-﻿namespace Devoir_1_INF1035;
+﻿namespace Cardgame;
 
 // Structure représentant une carte
 public struct Carte
