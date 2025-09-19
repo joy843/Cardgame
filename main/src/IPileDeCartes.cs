@@ -1,4 +1,4 @@
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 
 // Interface représentant une pile de cartes avec des opérations d'ajout et de retrait de carte
 interface IPileDeCartes
