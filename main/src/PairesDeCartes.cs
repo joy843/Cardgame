@@ -1,4 +1,4 @@
-namespace Devoir_1_INF1035;
+namespace Cardgame;
 
 using System;
 using System.Collections.Generic;
